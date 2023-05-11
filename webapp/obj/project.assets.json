@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alan\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2022\\Azure-Final\\AZ-400\\Base\\4. Design and implement build and release pipelines\\100. Code\\25. Code Coverage - Implementation\\webapp\\webapp\\webapp.csproj",
+      "projectUniqueName": "E:\\webapp-lst\\webapp\\webapp.csproj",
       "projectName": "webapp",
-      "projectPath": "C:\\2022\\Azure-Final\\AZ-400\\Base\\4. Design and implement build and release pipelines\\100. Code\\25. Code Coverage - Implementation\\webapp\\webapp\\webapp.csproj",
-      "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\2022\\Azure-Final\\AZ-400\\Base\\4. Design and implement build and release pipelines\\100. Code\\25. Code Coverage - Implementation\\webapp\\webapp\\obj\\",
+      "projectPath": "E:\\webapp-lst\\webapp\\webapp.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "E:\\webapp-lst\\webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
