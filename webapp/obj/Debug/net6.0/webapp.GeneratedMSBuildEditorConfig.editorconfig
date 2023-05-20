@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webapp
 build_property.RootNamespace = webapp
-build_property.ProjectDir = E:\webapp-lst\webapp\
+build_property.ProjectDir = C:\Users\LENOVO\Source\Repos\ravish142000\webappff\webapp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\webapp-lst\webapp
+build_property.MSBuildProjectDirectory = C:\Users\LENOVO\Source\Repos\ravish142000\webappff\webapp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/webapp-lst/webapp/Pages/Error.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webapp-lst/webapp/Pages/Index.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webapp-lst/webapp/Pages/Privacy.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webapp-lst/webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webapp-lst/webapp/Pages/_ViewImports.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webapp-lst/webapp/Pages/_ViewStart.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webapp-lst/webapp/Pages/Shared/_Layout.cshtml]
+[C:/Users/LENOVO/Source/Repos/ravish142000/webappff/webapp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1mra30w038
